@@ -6,7 +6,7 @@
 
 * CVIPtools is designed for the exploration of computer imaging by allowing the user to interactively experiment with computer imaging techniques, functions and algorithms. It is designed to be used for education, as well as for research and development. It is an on-going project developed at Southern Illinois University at Edwardsville in the Computer Vision and Image Processing Laboratory under the direction of Scott E Umbaugh, PhD.
           
-# The current version is 5.8I
+# The current version is 5.7e
  
 
 # Function Categories:
